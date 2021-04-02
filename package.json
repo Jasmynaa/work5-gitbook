@@ -1,0 +1,23 @@
+{
+  "name": "work5-gitbook",
+  "version": "1.0.0",
+  "description": "这是一个电视剧题材的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasmynaa/work5-gitbook.git"
+  },
+  "keywords": [],
+  "author": "Jasmynaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jasmynaa/work5-gitbook/issues"
+  },
+  "homepage": "https://github.com/Jasmynaa/work5-gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
